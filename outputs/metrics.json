@@ -1,0 +1,20 @@
+{
+  "cv": {
+    "accuracy_mean": 0.99621428638184,
+    "accuracy_std": 0.0006001410443352652,
+    "f1_macro_mean": 0.996213210490021,
+    "f1_macro_std": 0.0006002552611465821,
+    "n_splits": 5
+  },
+  "test": {
+    "n_test": 34023,
+    "n_pos": 17288,
+    "n_neg": 16735
+  },
+  "artifacts": {
+    "confusion_matrix_png": "outputs\\confusion_matrix.png",
+    "roc_curve_png": "outputs\\roc_curve.png",
+    "pr_curve_png": "outputs\\pr_curve.png",
+    "model_joblib": "models\\phish_svc_tfidf_char_word_url_son.joblib"
+  }
+}
