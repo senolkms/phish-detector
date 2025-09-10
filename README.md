@@ -56,3 +56,6 @@ PHISH-DETECTOR/
 ├── app.py                             # Streamlit uygulaması
 ├── train_large.py                     # Model eğitme scripti
 └── README.md                          # Bu dosya
+
+git clone https://github.com/senolkms/phish-detector.git
+cd phish-detector
