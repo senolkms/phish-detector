@@ -1,0 +1,23 @@
+# Büyük veri ve artefaktlar
+data/
+models/
+outputs/
+*.csv
+*.joblib
+*.pkl
+*.mbox
+*.eml
+*.zip
+*.7z
+*.rar
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# IDE / OS
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
