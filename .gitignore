@@ -21,3 +21,6 @@ outputs/
 __pycache__/
 *.pyc
 .DS_Store
+!data/.gitkeep
+!models/.gitkeep
+!outputs/.gitkeep
